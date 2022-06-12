@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development especially backend
 - 💭 I'm looking for help in exploring new technologies
 - 👉 Visit my website <a href="https://aratrik-02.github.io/Portfolio/">here.</a>
-- 📫 How to reach me: Email-spryaratrik.basak@gmail.com
+- 📫 How to reach me: spryaratrik.basak@gmail.com
 - 😁 Pronouns: He/his
 - 🙃 Hobbies: I like binge watching animes and reading manga
 - 😂 Fun fact: I somehow manage to find time for studies
