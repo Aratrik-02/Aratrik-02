@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my development skills
 - 🌱 I’m currently learning web development especially backend
 - 💭 I'm looking for help in exploring new technologies
-- 👉 Visit my website <a href="https://aratrik-02.github.io/Portfolio/">here.</a>
+- 👉 Visit my website <a href="https://aratrik-02.github.io/Portfolio/" target="_blank">here.</a>
 - 📫 How to reach me: spryaratrik.basak@gmail.com
 - 😁 Pronouns: He/his
 - 🙃 Hobbies: I like binge watching animes and reading manga
