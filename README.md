@@ -6,7 +6,7 @@
 - 📫 How to reach me: spryaratrik.basak@gmail.com
 - 😁 Pronouns: He/his
 - 🙃 Hobbies: I like binge watching animes and reading manga
-- 😂 Fun fact: I somehow manage to find time for studies
+- 😂 Fun fact: The above link is not a rickroll
 
 
 
