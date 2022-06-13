@@ -19,7 +19,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Aratrik-02&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aratrik-02&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aratrik-02&theme=radical&hide_border=true&include_all_commits=true&count_public=true&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
