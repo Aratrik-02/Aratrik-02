@@ -8,9 +8,6 @@
 - 🙃 Hobbies: I like binge watching animes and reading manga
 - 😂 Fun fact: The above link is not a rickroll
 
-## Visitors Count :
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aratrik-basak-61bbb2200/) 
