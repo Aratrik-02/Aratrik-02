@@ -1,4 +1,4 @@
-## 💫About Me :
+# 💫About Me :
 - 🔭 I’m currently working on my development skills
 - 🌱 I’m currently learning web development especially backend
 - 💭 I'm looking for help in exploring new technologies
@@ -9,7 +9,7 @@
 - 😂 Fun fact: The above link is not a rickroll
 
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aratrik-basak-61bbb2200/) 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aratrik-02.github.io/Portfolio/)
 
