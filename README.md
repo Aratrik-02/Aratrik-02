@@ -52,7 +52,7 @@
 
 <h3 align="center">😂Random Dev Meme</h3>
 <div align="center">
-<img src="https://random-memer.herokuapp.com/" width="212px"/>
+<img src="https://random-memer.herokuapp.com/" width="300px"/>
 </div>
 <h3 align="center">Digital Badges</h3>
 
