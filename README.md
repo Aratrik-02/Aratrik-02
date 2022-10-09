@@ -1,3 +1,6 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Aratrik</h1>
+<h3 align="center">🌐 Web Developer 🧑‍🎓 Student ✈️ Internet Explorer</h3>
+
 # 💫About Me :
 - 🔭 I’m currently working on my development skills
 - 🌱 I’m currently learning web development especially backend
