@@ -9,7 +9,6 @@
  💭 I'm looking for help in exploring new technologies<br>
  👉 Visit my website <a href="https://aratrik-02.github.io/Portfolio/" target="_blank">here.</a><br>
  📫 How to reach me: spryaratrik.basak@gmail.com<br>
- 😁 Pronouns: He/his<br>
  🙃 Hobbies: I like binge watching animes and reading manga<br>
  😂 Fun fact: The above link is not a rickroll</p>
 
