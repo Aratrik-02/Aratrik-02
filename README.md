@@ -37,10 +37,10 @@
 
    <div align=center>
       <a href="https://github.com/Aratrik-02">
-      <img src="https://github-profile-trophy.vercel.app/?username=Aratrik-02&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories&column=6" alt="zumrudu-anka" width=200% height=100%/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Aratrik-02&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,&column=4" width=200% height=100%/>
       </a>
    </div>
-
+  
 
 <h3 align="center">✍️Random Dev Quote</h3>
 <div align="center">
