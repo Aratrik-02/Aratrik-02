@@ -49,9 +49,11 @@
 
 </div>
 
-<!-- ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
+<h3 align="center">😂Random Dev Meme</h3>
+<div align="center">
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 <h3 align="center">Digital Badges</h3>
 
 [![@aratrik's Holopin board](https://holopin.io/api/user/board?user=aratrik)](https://holopin.io/@aratrik)
