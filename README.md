@@ -32,8 +32,8 @@
 
 <h2 align="center"> 📊GitHub Stats </h2>
 
-![Aratrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aratrik-02&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=dark&hide_border=true)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aratrik-02&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" alt="aratrik's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=dark&hide_border=true" alt="aratrik's github streak" width="48%" >
 
    <div align=center>
       <a href="https://github.com/Aratrik-02">
