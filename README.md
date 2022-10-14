@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Aratrik</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Aratrik</h1>
 <h3 align="center">🌐 Web Developer 🧑‍🎓 Student  ✈️ Googler</h3>
 
 <h2 align="center"> 💫About Me</h2>
