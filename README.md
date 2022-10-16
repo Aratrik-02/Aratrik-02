@@ -13,7 +13,7 @@
  😂 Fun fact: The above link is not a rickroll</p>
 
 </div>
-<h2 align="center"> 🌐Socials </h2>
+<h2 align="center"> 🌐Socials</h2>
 <div align="center"> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aratrik-basak-61bbb2200/) 
