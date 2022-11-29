@@ -38,11 +38,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aratrik-02&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" alt="aratrik's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=dark&hide_border=true" alt="aratrik's github streak" width="48%" >
 
-   <div align="center">
+<!--    <div align="center">
       <a href="https://github.com/Aratrik-02">
       <img src="https://github-profile-trophy.vercel.app/?username=Aratrik-02&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,&column=4" width=50% height=70%/>
       </a>
-   </div>
+   </div> -->
   
 
 <h3>✍️Random Dev Quote</h3>
@@ -53,10 +53,10 @@
 </div>
 
 
-<h3>😂Random Dev Meme</h3>
+<!-- <h3>😂Random Dev Meme</h3>
 <div>
 <img src="https://random-memer.herokuapp.com/" width="300px"/>
-</div>
+</div> -->
 <h3>Digital Badges</h3>
 
 [![@aratrik's Holopin board](https://holopin.io/api/user/board?user=aratrik)](https://holopin.io/@aratrik)
