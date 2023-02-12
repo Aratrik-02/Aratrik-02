@@ -50,10 +50,10 @@
 
 </div>
 
-
-<h3>😂Random Dev Meme</h3>
+<h3>😂Random One Liners</h3>
 <div>
-<img src="https://random-memer.herokuapp.com/" width="300px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="300px"/> -->
+ <img src="https://readme-jokes.vercel.app/api?theme=random/" width="300px"/>
 </div>
 <h3>Digital Badges</h3>
 
