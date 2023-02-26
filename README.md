@@ -9,7 +9,7 @@
 <p> 🔭 I’m currently working on my development skills<br>
  🌱 I’m currently learning backend dev <br>
  💭 I'm looking for help in exploring new technologies<br>
- 👉 Visit my website <a href="https://aratrik-02.github.io/Portfolio/" target="_blank">here.</a><br>
+ 👉 Visit my website <a href="https://aratrik-02.github.io/PortfolioV2/" target="_blank">here.</a><br>
  📫 How to reach me: spryaratrik.basak@gmail.com<br>
  🙃 Hobbies: I like binge watching animes and reading manga<br>
  😂 Fun fact: The above link is not a rickroll</p>
