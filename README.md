@@ -33,8 +33,8 @@
 
 <h2 > 📊GitHub Stats </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aratrik-02&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" alt="aratrik's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=dark&hide_border=true" alt="aratrik's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Aratrik-02&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" alt="aratrik's github stats" width="45%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aratrik-02&theme=dark&hide_border=true" alt="aratrik's github streak" width="45%" >
 
    <div align="center">
       <a href="https://github.com/Aratrik-02">
