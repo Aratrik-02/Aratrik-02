@@ -7,7 +7,7 @@
 <div> 
 
 <p> 🔭 I’m currently working on my development skills<br>
- 🌱 I’m currently learning backend dev <br>
+ 🌱 I’m currently exploring data science <br>
  💭 I'm looking for help in exploring new technologies<br>
  👉 Visit my website <a href="https://aratrik-02.github.io/PortfolioV2/" target="_blank">here.</a><br>
  📫 How to reach me: spryaratrik.basak@gmail.com<br>
