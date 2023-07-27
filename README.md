@@ -3,7 +3,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I'm Aratrik</h1>
 <h3>🌐 Web Developer 🧑‍🎓 Student  ✈️ Googler</h3>
 
-<h2> 💫About Me</h2>
+<h2>💫About Me</h2>
 <div> 
 
 <p> 🔭 I’m currently working on my development skills<br>
